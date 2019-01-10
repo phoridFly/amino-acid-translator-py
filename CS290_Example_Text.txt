@@ -1,1 +1,3 @@
 Example text file put in GitHub folder through Finder.
+
+I am in the branch.
