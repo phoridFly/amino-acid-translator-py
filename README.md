@@ -1,2 +1,2 @@
-# 290-HW-Git-1
-Week1 Homework
+# Very Simple Amino Acid Translator
+Playing with Python
